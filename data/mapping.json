@@ -1,0 +1,17 @@
+{
+    "Acne": {
+        "description": "Occurs when hair follicles become clogged with oil and dead skin.",
+        "medicines": ["Benzoyl peroxide", "Retinoids", "Salicylic acid"],
+        "treatments": ["Regular cleansing", "Avoid picking at acne", "Chemical peels"]
+    },
+    "Eczema": {
+        "description": "Causes inflammation, itching, and cracked skin.",
+        "medicines": ["Topical corticosteroids", "Antihistamines"],
+        "treatments": ["Moisturizers", "Avoiding allergens", "Light therapy"]
+    },
+    "Psoriasis": {
+        "description": "Speeds up skin cell production causing scaling.",
+        "medicines": ["Coal tar", "Vitamin D analogs"],
+        "treatments": ["Phototherapy", "Biologic treatments", "Moisturizers"]
+    }
+}

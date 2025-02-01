@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skin Disease Classifier</title>
+    
+    <!-- Link to external CSS -->
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Skin Image</h1>
+        <form action="/" method="POST" enctype="multipart/form-data" class="upload-form">
+            <input type="file" name="file" id="file-upload" required>
+            <button type="submit" class="upload-button">Upload</button>
+        </form>
+
+        {% if predicted_class %}
+            <div class="result">
+                <h2>Prediction Result:</h2>
+                <p class="predicted-class">{{ predicted_class }}</p>
+                <p class="confidence">Confidence: {{ confidence }}</p>
+                
+                <!-- Image Preview Section -->
+                <div class="image-preview">
+                    <img src="{{ img_path }}" alt="Uploaded Image">
+                </div>
+
+                {% if prescription_html %}
+                    <div class="prescription">
+                        {% include prescription_html %}
+                    </div>
+                {% endif %}
+            </div>
+
+            <!-- Add Map Feature After Result -->
+            <div class="map-feature">
+                <button onclick="showMap()" class="upload-button" style="margin-top: 2%;">Show Nearby Skin Hospitals</button>
+                <div id="map-container" style="margin-top: 20px; display: none;">
+                    <iframe
+                        id="map-frame"
+                        src=""
+                        width="100%"
+                        height="400"
+                        style="border:0;"
+                        allowfullscreen=""
+                        loading="lazy">
+                    </iframe>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+
+    <script>
+        function showMap() {
+            const mapContainer = document.getElementById('map-container');
+            const mapFrame = document.getElementById('map-frame');
+
+            // Update iframe source to show the map
+            mapFrame.src = "https://www.google.com/maps?q=skin+hospital+near+me&output=embed";
+            
+            // Display the map container
+            mapContainer.style.display = "block";
+        }
+    </script>
+</body>
+</html>

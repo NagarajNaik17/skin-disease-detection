@@ -1,0 +1,421 @@
+File Path,Disease Name
+C:\backupds\dataset\train\acne\image1.png,acne
+C:\backupds\dataset\train\acne\image10.png,acne
+C:\backupds\dataset\train\acne\image11.png,acne
+C:\backupds\dataset\train\acne\image12.png,acne
+C:\backupds\dataset\train\acne\image13.png,acne
+C:\backupds\dataset\train\acne\image14.png,acne
+C:\backupds\dataset\train\acne\image15.png,acne
+C:\backupds\dataset\train\acne\image16.png,acne
+C:\backupds\dataset\train\acne\image17.png,acne
+C:\backupds\dataset\train\acne\image18.png,acne
+C:\backupds\dataset\train\acne\image19.png,acne
+C:\backupds\dataset\train\acne\image2.png,acne
+C:\backupds\dataset\train\acne\image20.png,acne
+C:\backupds\dataset\train\acne\image21.png,acne
+C:\backupds\dataset\train\acne\image22.png,acne
+C:\backupds\dataset\train\acne\image23.png,acne
+C:\backupds\dataset\train\acne\image24.png,acne
+C:\backupds\dataset\train\acne\image25.png,acne
+C:\backupds\dataset\train\acne\image26.png,acne
+C:\backupds\dataset\train\acne\image27.png,acne
+C:\backupds\dataset\train\acne\image28.png,acne
+C:\backupds\dataset\train\acne\image29.png,acne
+C:\backupds\dataset\train\acne\image3.png,acne
+C:\backupds\dataset\train\acne\image30.png,acne
+C:\backupds\dataset\train\acne\image31.png,acne
+C:\backupds\dataset\train\acne\image32.png,acne
+C:\backupds\dataset\train\acne\image33.png,acne
+C:\backupds\dataset\train\acne\image34.png,acne
+C:\backupds\dataset\train\acne\image35.png,acne
+C:\backupds\dataset\train\acne\image36.png,acne
+C:\backupds\dataset\train\acne\image37.png,acne
+C:\backupds\dataset\train\acne\image38.png,acne
+C:\backupds\dataset\train\acne\image39.png,acne
+C:\backupds\dataset\train\acne\image4.png,acne
+C:\backupds\dataset\train\acne\image40.png,acne
+C:\backupds\dataset\train\acne\image41.png,acne
+C:\backupds\dataset\train\acne\image42.png,acne
+C:\backupds\dataset\train\acne\image43.png,acne
+C:\backupds\dataset\train\acne\image44.png,acne
+C:\backupds\dataset\train\acne\image45.png,acne
+C:\backupds\dataset\train\acne\image46.png,acne
+C:\backupds\dataset\train\acne\image47.png,acne
+C:\backupds\dataset\train\acne\image48.png,acne
+C:\backupds\dataset\train\acne\image49.png,acne
+C:\backupds\dataset\train\acne\image5.png,acne
+C:\backupds\dataset\train\acne\image50.png,acne
+C:\backupds\dataset\train\acne\image51.png,acne
+C:\backupds\dataset\train\acne\image52.png,acne
+C:\backupds\dataset\train\acne\image53.png,acne
+C:\backupds\dataset\train\acne\image54.png,acne
+C:\backupds\dataset\train\acne\image55.png,acne
+C:\backupds\dataset\train\acne\image56.png,acne
+C:\backupds\dataset\train\acne\image57.png,acne
+C:\backupds\dataset\train\acne\image58.png,acne
+C:\backupds\dataset\train\acne\image59.png,acne
+C:\backupds\dataset\train\acne\image6.png,acne
+C:\backupds\dataset\train\acne\image60.png,acne
+C:\backupds\dataset\train\acne\image7.png,acne
+C:\backupds\dataset\train\acne\image8.png,acne
+C:\backupds\dataset\train\acne\image9.png,acne
+C:\backupds\dataset\train\Cold sores\image1.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image10.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image11.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image12.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image13.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image14.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image15.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image16.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image17.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image18.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image19.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image2.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image20.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image21.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image22.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image23.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image24.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image3.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image4.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image5.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image6.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image7.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image8.png,Cold sores
+C:\backupds\dataset\train\Cold sores\image9.png,Cold sores
+C:\backupds\dataset\train\eczema\image1.png,eczema
+C:\backupds\dataset\train\eczema\image10.png,eczema
+C:\backupds\dataset\train\eczema\image11.png,eczema
+C:\backupds\dataset\train\eczema\image12.png,eczema
+C:\backupds\dataset\train\eczema\image13.png,eczema
+C:\backupds\dataset\train\eczema\image14.png,eczema
+C:\backupds\dataset\train\eczema\image15.png,eczema
+C:\backupds\dataset\train\eczema\image16.png,eczema
+C:\backupds\dataset\train\eczema\image17.png,eczema
+C:\backupds\dataset\train\eczema\image18.png,eczema
+C:\backupds\dataset\train\eczema\image19.png,eczema
+C:\backupds\dataset\train\eczema\image2.png,eczema
+C:\backupds\dataset\train\eczema\image20.png,eczema
+C:\backupds\dataset\train\eczema\image21.png,eczema
+C:\backupds\dataset\train\eczema\image22.png,eczema
+C:\backupds\dataset\train\eczema\image23.png,eczema
+C:\backupds\dataset\train\eczema\image24.png,eczema
+C:\backupds\dataset\train\eczema\image25.png,eczema
+C:\backupds\dataset\train\eczema\image26.png,eczema
+C:\backupds\dataset\train\eczema\image27.png,eczema
+C:\backupds\dataset\train\eczema\image28.png,eczema
+C:\backupds\dataset\train\eczema\image29.png,eczema
+C:\backupds\dataset\train\eczema\image3.png,eczema
+C:\backupds\dataset\train\eczema\image4.png,eczema
+C:\backupds\dataset\train\eczema\image5.png,eczema
+C:\backupds\dataset\train\eczema\image6.png,eczema
+C:\backupds\dataset\train\eczema\image7.png,eczema
+C:\backupds\dataset\train\eczema\image8.png,eczema
+C:\backupds\dataset\train\eczema\image9.png,eczema
+C:\backupds\dataset\train\Ichthyosis\image1.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image10.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image11.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image12.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image13.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image14.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image15.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image16.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image17.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image18.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image19.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image2.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image20.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image21.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image22.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image23.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image3.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image4.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image5.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image6.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image7.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image8.png,Ichthyosis
+C:\backupds\dataset\train\Ichthyosis\image9.png,Ichthyosis
+C:\backupds\dataset\train\psoriasis\image1.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image10.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image11.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image12.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image13.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image14.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image15.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image16.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image17.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image18.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image19.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image2.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image20.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image21.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image22.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image23.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image24.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image3.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image4.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image5.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image6.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image7.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image8.png,psoriasis
+C:\backupds\dataset\train\psoriasis\image9.png,psoriasis
+C:\backupds\dataset\train\Ring worm\image1.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image10.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image11.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image12.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image13.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image14.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image15.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image16.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image17.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image18.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image19.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image2.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image20.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image21.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image22.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image23.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image24.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image3.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image4.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image5.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image6.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image7.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image8.png,Ring worm
+C:\backupds\dataset\train\Ring worm\image9.png,Ring worm
+C:\backupds\dataset\train\Vitiligo\image1.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image10.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image11.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image12.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image13.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image14.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image15.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image16.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image17.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image18.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image19.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image2.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image20.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image21.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image22.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image23.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image24.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image25.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image26.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image3.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image4.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image5.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image6.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image7.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image8.png,Vitiligo
+C:\backupds\dataset\train\Vitiligo\image9.png,Vitiligo
+C:\backupds\dataset\validation\acne\image1.png,acne
+C:\backupds\dataset\validation\acne\image10.png,acne
+C:\backupds\dataset\validation\acne\image11.png,acne
+C:\backupds\dataset\validation\acne\image12.png,acne
+C:\backupds\dataset\validation\acne\image13.png,acne
+C:\backupds\dataset\validation\acne\image14.png,acne
+C:\backupds\dataset\validation\acne\image15.png,acne
+C:\backupds\dataset\validation\acne\image16.png,acne
+C:\backupds\dataset\validation\acne\image17.png,acne
+C:\backupds\dataset\validation\acne\image18.png,acne
+C:\backupds\dataset\validation\acne\image19.png,acne
+C:\backupds\dataset\validation\acne\image2.png,acne
+C:\backupds\dataset\validation\acne\image20.png,acne
+C:\backupds\dataset\validation\acne\image21.png,acne
+C:\backupds\dataset\validation\acne\image22.png,acne
+C:\backupds\dataset\validation\acne\image23.png,acne
+C:\backupds\dataset\validation\acne\image24.png,acne
+C:\backupds\dataset\validation\acne\image25.png,acne
+C:\backupds\dataset\validation\acne\image26.png,acne
+C:\backupds\dataset\validation\acne\image27.png,acne
+C:\backupds\dataset\validation\acne\image28.png,acne
+C:\backupds\dataset\validation\acne\image29.png,acne
+C:\backupds\dataset\validation\acne\image3.png,acne
+C:\backupds\dataset\validation\acne\image30.png,acne
+C:\backupds\dataset\validation\acne\image31.png,acne
+C:\backupds\dataset\validation\acne\image32.png,acne
+C:\backupds\dataset\validation\acne\image33.png,acne
+C:\backupds\dataset\validation\acne\image34.png,acne
+C:\backupds\dataset\validation\acne\image35.png,acne
+C:\backupds\dataset\validation\acne\image36.png,acne
+C:\backupds\dataset\validation\acne\image37.png,acne
+C:\backupds\dataset\validation\acne\image38.png,acne
+C:\backupds\dataset\validation\acne\image39.png,acne
+C:\backupds\dataset\validation\acne\image4.png,acne
+C:\backupds\dataset\validation\acne\image40.png,acne
+C:\backupds\dataset\validation\acne\image41.png,acne
+C:\backupds\dataset\validation\acne\image42.png,acne
+C:\backupds\dataset\validation\acne\image43.png,acne
+C:\backupds\dataset\validation\acne\image44.png,acne
+C:\backupds\dataset\validation\acne\image45.png,acne
+C:\backupds\dataset\validation\acne\image46.png,acne
+C:\backupds\dataset\validation\acne\image47.png,acne
+C:\backupds\dataset\validation\acne\image48.png,acne
+C:\backupds\dataset\validation\acne\image49.png,acne
+C:\backupds\dataset\validation\acne\image5.png,acne
+C:\backupds\dataset\validation\acne\image50.png,acne
+C:\backupds\dataset\validation\acne\image51.png,acne
+C:\backupds\dataset\validation\acne\image52.png,acne
+C:\backupds\dataset\validation\acne\image53.png,acne
+C:\backupds\dataset\validation\acne\image54.png,acne
+C:\backupds\dataset\validation\acne\image55.png,acne
+C:\backupds\dataset\validation\acne\image56.png,acne
+C:\backupds\dataset\validation\acne\image57.png,acne
+C:\backupds\dataset\validation\acne\image58.png,acne
+C:\backupds\dataset\validation\acne\image59.png,acne
+C:\backupds\dataset\validation\acne\image6.png,acne
+C:\backupds\dataset\validation\acne\image60.png,acne
+C:\backupds\dataset\validation\acne\image7.png,acne
+C:\backupds\dataset\validation\acne\image8.png,acne
+C:\backupds\dataset\validation\acne\image9.png,acne
+C:\backupds\dataset\validation\Cold sores\image1.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image10.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image11.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image12.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image13.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image14.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image15.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image16.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image17.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image18.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image19.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image2.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image20.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image21.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image22.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image23.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image24.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image3.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image4.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image5.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image6.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image7.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image8.png,Cold sores
+C:\backupds\dataset\validation\Cold sores\image9.png,Cold sores
+C:\backupds\dataset\validation\eczema\image1.png,eczema
+C:\backupds\dataset\validation\eczema\image10.png,eczema
+C:\backupds\dataset\validation\eczema\image11.png,eczema
+C:\backupds\dataset\validation\eczema\image12.png,eczema
+C:\backupds\dataset\validation\eczema\image13.png,eczema
+C:\backupds\dataset\validation\eczema\image14.png,eczema
+C:\backupds\dataset\validation\eczema\image15.png,eczema
+C:\backupds\dataset\validation\eczema\image16.png,eczema
+C:\backupds\dataset\validation\eczema\image17.png,eczema
+C:\backupds\dataset\validation\eczema\image18.png,eczema
+C:\backupds\dataset\validation\eczema\image19.png,eczema
+C:\backupds\dataset\validation\eczema\image2.png,eczema
+C:\backupds\dataset\validation\eczema\image20.png,eczema
+C:\backupds\dataset\validation\eczema\image21.png,eczema
+C:\backupds\dataset\validation\eczema\image22.png,eczema
+C:\backupds\dataset\validation\eczema\image23.png,eczema
+C:\backupds\dataset\validation\eczema\image24.png,eczema
+C:\backupds\dataset\validation\eczema\image25.png,eczema
+C:\backupds\dataset\validation\eczema\image26.png,eczema
+C:\backupds\dataset\validation\eczema\image27.png,eczema
+C:\backupds\dataset\validation\eczema\image28.png,eczema
+C:\backupds\dataset\validation\eczema\image29.png,eczema
+C:\backupds\dataset\validation\eczema\image3.png,eczema
+C:\backupds\dataset\validation\eczema\image4.png,eczema
+C:\backupds\dataset\validation\eczema\image5.png,eczema
+C:\backupds\dataset\validation\eczema\image6.png,eczema
+C:\backupds\dataset\validation\eczema\image7.png,eczema
+C:\backupds\dataset\validation\eczema\image8.png,eczema
+C:\backupds\dataset\validation\eczema\image9.png,eczema
+C:\backupds\dataset\validation\Ichthyosis\image1.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image10.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image11.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image12.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image13.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image14.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image15.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image16.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image17.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image18.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image19.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image2.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image20.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image21.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image22.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image23.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image3.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image4.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image5.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image6.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image7.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image8.png,Ichthyosis
+C:\backupds\dataset\validation\Ichthyosis\image9.png,Ichthyosis
+C:\backupds\dataset\validation\psoriasis\image1.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image10.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image11.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image12.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image13.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image14.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image15.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image16.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image17.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image18.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image19.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image2.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image20.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image21.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image22.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image23.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image24.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image3.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image4.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image5.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image6.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image7.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image8.png,psoriasis
+C:\backupds\dataset\validation\psoriasis\image9.png,psoriasis
+C:\backupds\dataset\validation\Ring worm\image1.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image10.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image11.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image12.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image13.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image14.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image15.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image16.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image17.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image18.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image19.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image2.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image20.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image21.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image22.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image23.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image24.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image3.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image4.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image5.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image6.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image7.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image8.png,Ring worm
+C:\backupds\dataset\validation\Ring worm\image9.png,Ring worm
+C:\backupds\dataset\validation\Vitiligo\image1.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image10.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image11.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image12.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image13.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image14.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image15.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image16.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image17.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image18.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image19.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image2.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image20.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image21.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image22.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image23.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image24.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image25.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image26.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image3.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image4.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image5.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image6.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image7.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image8.png,Vitiligo
+C:\backupds\dataset\validation\Vitiligo\image9.png,Vitiligo

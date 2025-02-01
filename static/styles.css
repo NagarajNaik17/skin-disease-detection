@@ -1,0 +1,134 @@
+/* General Reset */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #f0f4f8, #d9e4f1);
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Container Styling */
+.container {
+    width: 80%; /* Increased width to 80% */
+    max-width: 900px; /* You can adjust this value based on how much width you want */
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+}
+.container:hover {
+    transform: scale(1.02);
+}
+
+/* Heading Styling */
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Form Styling */
+.upload-form {
+    margin-bottom: 20px;
+}
+#file-upload {
+    display: block;
+    margin: 0 auto 10px;
+    padding: 10px;
+    border: 2px dashed #007bff;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    transition: border-color 0.3s ease-in-out;
+}
+#file-upload:hover {
+    border-color: #0056b3;
+}
+.upload-button {
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.upload-button:hover {
+    background: linear-gradient(135deg, #0056b3, #003d7a);
+    box-shadow: 0 5px 15px rgba(0, 91, 187, 0.4);
+}
+
+/* Result Section Styling */
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    background: #f8fbff;
+    border: 1px solid #e3e8f1;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.result h2 {
+    color: #0056b3;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.result p {
+    color: #333;
+    font-size: 16px;
+}
+
+/* Image Preview Styling */
+.image-preview {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    background: #f1f3f6;
+    border: 2px solid #e1e5eb;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.image-preview img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+}
+
+/* Prescription Styling */
+.prescription {
+    margin-top: 15px;
+    padding: 10px;
+    background: linear-gradient(135deg, #d1ecf1, #a5d8eb);
+    border: 1px solid #a5d8eb;
+    border-radius: 10px;
+    color: #007bff;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+        width: 90%; /* For smaller screens, use a bit more width */
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .upload-button {
+        font-size: 14px;
+    }
+    .result h2 {
+        font-size: 18px;
+    }
+}
