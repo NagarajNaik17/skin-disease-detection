@@ -1,22 +1,15 @@
-# Python cache
+# Ignore Python cache and log files
 __pycache__/
 *.pyc
+*.log
 
-# Dataset folders
+# Ignore dataset and saved models
+dataset/
 data/
-dataset/train/
-dataset/validation/
 saved_model/
 
-# System files
-.DS_Store
-
-# Model weights if too big
-*.h5
-*.keras
-
-# VS Code settings
+# Ignore VS Code settings
 .vscode/
 
-# Logs and output
-*.log
+# Ignore any OS-specific files
+.DS_Store
