@@ -1,15 +1,29 @@
-# Ignore Python cache and log files
+# Ignore dataset and large data folders
+data/
+dataset/
+dataset.csv
+saved model/
+
+# Ignore Python cache files
 __pycache__/
 *.pyc
-*.log
+*.pyo
+*.pyd
 
-# Ignore dataset and saved models
-dataset/
-data/
-saved_model/
+# Ignore environment files
+.env
+venv/
+.env/
+virtualenv/
 
-# Ignore VS Code settings
+# Ignore VSCode settings
 .vscode/
 
-# Ignore any OS-specific files
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS-specific files
 .DS_Store
+Thumbs.db
