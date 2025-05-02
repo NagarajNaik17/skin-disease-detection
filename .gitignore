@@ -1,29 +1,9 @@
-# Ignore dataset and large data folders
-data/
-dataset/
-dataset.csv
-saved model/
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Ignore environment files
-.env
-venv/
-.env/
-virtualenv/
-
-# Ignore VSCode settings
-.vscode/
+# Ignore dataset folders
+/data/
+/dataset/
 
 # Ignore temporary files
-*.log
-*.tmp
-*.bak
-
-# Ignore OS-specific files
+__pycache__/
+*.pyc
 .DS_Store
-Thumbs.db
+*.ipynb_checkpoints
