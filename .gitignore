@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset folders
+data/
+dataset/train/
+dataset/validation/
+saved_model/
+
+# System files
+.DS_Store
+
+# Model weights if too big
+*.h5
+*.keras
+
+# VS Code settings
+.vscode/
+
+# Logs and output
+*.log
